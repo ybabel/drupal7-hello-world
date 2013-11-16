@@ -1,0 +1,5 @@
+name = Hello world
+description = Minimanlist Hello World in Drupal 7
+package = helloworld
+core = 7.x
+files[] = hello.module
